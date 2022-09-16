@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the term project of the course,
+  grading criteria, due dates, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

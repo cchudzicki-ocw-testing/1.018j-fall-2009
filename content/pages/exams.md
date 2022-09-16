@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study guides for the course exams, practice exams,
+  and exam solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
